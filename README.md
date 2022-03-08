@@ -38,7 +38,7 @@ Use this at your own risk. I will not be responsible for any kind of issue while
 [![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://youtu.be/_xuptk2KUbk)
 
 ### Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AbirHasan2005/Forward-Client)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/decentboyy/message_forwarder)
 
 ### Host Locally:
 ```sh
